@@ -1,0 +1,398 @@
+body {
+  background-color: #dadddf;
+  font-family: Tahoma, Verdana, sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-style: 'Tahoma', serif;
+}
+
+h1 {
+  color: #1c4b82;
+  font-weight: bold;
+}
+
+h2 {
+  margin-left: auto;
+}
+
+h3 {
+  color: #1c4b82;
+  font-size: 40px;
+  font-weight: normal;
+  line-height: 2;
+  margin-left: 550px;
+  text-align: center;
+}
+
+h4 {
+  color: #1c4b82;
+  font-weight: bold;
+  line-height: 2;
+}
+
+h6 {
+  color: #1c4b82;
+  font-weight: normal;
+  line-height: 2;
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+p {
+  color: #B96F6F;
+  font-size: 25px;
+  font-weight: normal;
+  line-height: 2;
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  font-style: 'Amiri', serif;
+  ;
+}
+
+h5 {
+  color: #B96F6F;
+  font-size: 25px;
+  font-weight: normal;
+  line-height: 2;
+  width: 70%;
+  margin-right: auto;
+  margin-left: 0;
+  font-style: 'Amiri', serif;
+  ;
+  text-align: auto;
+}
+#intro{
+  background-color: #dadddf;
+}
+
+.Intr10 {
+  width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.introall {
+  /* margin: 5% 300px 5% 200px;
+  position: absolute;
+  bottom: 45px;
+  right: 450px;
+  transform: scale(0.8); */
+  text-align: center;
+  right: 300px;
+}
+
+.p23 {
+  width: 500px;
+}
+
+.paragrah {
+  text-align: center;
+
+}
+
+#title {
+  background-color: #dadddf;
+}
+
+.image {
+  width: 50%;
+  height: 30%;
+  margin-left: 50px;
+  border-radius: 25%;
+}
+
+.school-img {
+  width: 45%;
+  height: 40%;
+  border-radius: 25%;
+  margin-left: 0px;
+  margin-top: 4%;
+  text-align: center;
+  left: 300px;
+}
+
+.img-fluid {
+  width: 90%;
+  height: 50% margin: 20px;
+  border-radius: 25%;
+}
+
+.container {
+  clear: left;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  padding: 3% 15%;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'EB Garamond', serif;
+  font-size: 60px;
+  font-weight: normal;
+  line-height: 2;
+}
+
+.contact-me {
+  background-color: #dadddf;
+}
+
+.btn {
+  margin-bottom: 70px;
+  border-radius: 12px;
+  background-color: #1c4b82;
+  color: white;
+  border: 2px solid #dadddf;
+  padding: 10px 20px;
+  text-decoration: none;
+  text-shadow: 10px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.bottom-container {
+  background-color: #ffd3b6;
+  padding: 50px;
+}
+
+/* Navigation Bar */
+.navbar {
+  padding-bottom: 0 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Gothic A1', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #1c4b82;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+  color: #1c4b82;
+}
+
+.fab {
+  margin-bottom: 1rem;
+  resize: inherit;
+}
+
+.fab:hover {
+  color: #1c4b82;
+}
+
+.fa-facebook {
+  margin-left: 3px;
+  margin-right: 20px;
+}
+
+
+.school {
+  width: 500px;
+  height: 500px;
+  border-radius: 25%;
+  margin: 20px;
+  margin-bottom: 20px;
+  margin-right: 80px;
+}
+
+/* testimonials section */
+#testimonials {
+  padding: 7% 15%;
+  text-align: right;
+  background-color: #ffd3b6;
+}
+
+/* #contactme{
+  text-align: center;
+  padding: 200px;
+  margin:20px;
+} */
+/* admission section */
+.carousel-text .cat-icon {
+  text-shadow: none;
+  margin-left: 0;
+  text-align: left;
+  transform: scale(0.8);
+}
+
+.carousel-text .caption-text {
+  color: #b7b7b7;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 30px;
+  text-align: left;
+}
+
+#carouselExampleControls {
+  width: 60%;
+  margin-right: 40px;
+  margin-top: 4%;
+  position: relative;
+  left: 300px;
+  margin-right: 80px;
+}
+
+#admission {
+  color: #ffd3b6;
+}
+
+.admission-col {
+  padding: auto;
+}
+
+#LoginForm {
+  background-image: url("https://hdwallsource.com/img/2014/9/blur-26347-27038-hd-wallpapers.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 10px;
+}
+
+.form-heading {
+  color: #fff;
+  font-size: 23px;
+}
+
+
+
+.panel p {
+  color: #777777;
+  font-size: 16px;
+  margin-bottom: 30px;
+  line-height: 24px;
+}
+
+.login-form .form-control {
+  background: #f7f7f7 none repeat scroll 0 0;
+  border: 1px solid #d4d4d4;
+  border-radius: 10px;
+  font-size: 16px;
+  height: 50px;
+  line-height: 50px;
+
+}
+
+.main-div {
+  background: #ffffff none repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 70%;
+  padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+  margin-bottom: 10px;
+}
+
+.login-form {
+  text-align: left;
+}
+
+.forgot a {
+  color: #777777;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+.login-form .btn.btn-primary {
+  background: #f0ad4e none repeat scroll 0 0;
+  border-color: #f0ad4e;
+  color: #ffffff;
+  font-size: 14px;
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+
+.forgot {
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
+
+.login-form .btn.btn-primary.reset {
+  background: #ff9900 none repeat scroll 0 0;
+}
+
+.back {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.back a {
+  color: #444444;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css');
+
+@media (max-width: 780px) {
+  #LoginForm{
+    text-align: center;
+  }
+
+
+  .contact-me {
+    text-align: center;
+  }
+
+  .bottom-container {
+    text-align: center;
+  }
+
+  .image {
+    position: static;
+    transform: rotate(0);
+  }
+
+  .navhome {
+    padding-right: 50px;
+  }
+
+  .navbar {
+    text-align: center;
+  }
+
+  .container-fluid {
+    display: inline-block;
+  }
+  /* .introall{
+    position: static;
+    right: 30px;
+    bottom:100px;
+    transform: scale(0.6);
+
+  }
+  #intro{
+    text-align: left;
+  }
+
+  .paragrah{
+    right: 12.5%;
+    left: 12.5%;
+
+
+
+
+  }
+  .school{
+    position: static;
+  } */
